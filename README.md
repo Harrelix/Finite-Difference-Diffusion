@@ -1,7 +1,7 @@
 # Finite-Difference-Diffusion
 
 Some examples/demos of different finite difference methods for diffusions. <br/>
-Go to https://nbviewer.org/github/Harrelix/Finite-Difference-Diffusion/tr.ee/main/ to view the notebooks
+Go to https://nbviewer.org/github/Harrelix/Finite-Difference-Diffusion/tr.ee/main/ to view the notebooks.
 ## Some materials
 <ul>
 <li>P. Perona, J. Malik, Scale space and edge detection using anisotropic diffusion, Proceeding of IEEE Computer Soc. Workshop on Computer Vision, 1987</li>
